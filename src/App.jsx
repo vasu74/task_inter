@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <div className=" w-full  p-16 ">
-        <div className=" max-w-7xl flex gap-8 mx-auto items-center justify-center   ">
+        <div className=" max-w-7xl flex gap-8 mx-auto items-center justify-center max-h-screen   ">
           {/* content div */}
           <div
             id="content"
